@@ -15,7 +15,7 @@ export default function ProfileHeader() {
         
         <div className="text-center space-y-6 backdrop-blur-sm bg-black/30 p-8 rounded-2xl">
           <h1 className="text-6xl font-bold bg-clip-text text-transparent bg-gradient-to-r from-blue-400 to-cyan-300">
-            John Anderson
+            Aziz Hadrouk
           </h1>
           <p className="text-xl text-blue-200">Embedded Systems Software Engineer</p>
           
